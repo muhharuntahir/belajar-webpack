@@ -1,0 +1,3 @@
+# Project exclude paths
+/webclock/dist/
+/webclock/node_modules/
